@@ -20,6 +20,7 @@ namespace Dobobibobo
 {
 	public class EventHandlers
 	{
+		asd
 		public EventHandlers(Plugin plugin)
 		{
 			this.plugin = plugin;
